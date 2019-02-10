@@ -1,0 +1,2 @@
+# catalog.sorting
+Bitrix
